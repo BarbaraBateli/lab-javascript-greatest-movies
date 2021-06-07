@@ -7,7 +7,7 @@ const {
   orderByYear,
   orderAlphabetically,
   turnHoursToMinutes,
-  bestYearAvg,
+  bestYearAvg,cd
 } = require('../src/movies');
 
 // Iteration 1
